@@ -1,4 +1,4 @@
 # Python
 Python Projects
 <br>
-Author - Sarthak Amrutkar
+Author - Sarthak Amrutkar(Badsha Badmash)
